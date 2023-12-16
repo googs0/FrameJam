@@ -41,11 +41,11 @@ pip install -r requirements.txt
 ### Example images
 
 #### _main.py
-1
+
 ![FrameJam Example Screen Main 1](/assets/img/framejam_1.png)
 
 <br>
-2
+
 ![FrameJam Example Screen Main 1](/assets/img/framejam_2.png)
 
 <br>
