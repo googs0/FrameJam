@@ -1,23 +1,17 @@
 ## Frame Jam
 ### Input a video file and output every frame, smooshed together, in one compiled image
 
-<br>
-
 ### Overview
 - Video frame processing and workflow
 - Metadata retrieval
 - Dynamic output calcuations
 - File input and output flexibilities
 
-<br>
-
 ### External Libraries
 - **argparse**: Command-line argument parsing
 - **cv2**: (OpenCV) computer vision library for video processing and frame manipulation
 - **numpy**: Mathmateical operations on arrays 
 - **tqdm**: Progress bar for visualizing the progression of processing data
-
-<br>
 
 ### Files Included
 1. _main.py
