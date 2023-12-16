@@ -2,14 +2,14 @@
 ### Input a video file and output every frame in one compiled image
 
 ### Getting Started:
-**Clone the Repo**
+Clone the repo
 ```bash
 git clone https://github.com/googs0/FrameJam.git
 ```
 
 <br>
 
-**Installation Requirements**
+Installation
 ```bash
 pip install -r requirements.txt
 ```
