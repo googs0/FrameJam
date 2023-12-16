@@ -1,6 +1,8 @@
 ## Frame Jam
 ### Input a video file and output every frame in one compiled image
 
+<br>
+
 ### Getting Started:
 Clone the repo
 ```bash
