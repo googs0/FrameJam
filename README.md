@@ -17,6 +17,11 @@
 1. _main.py
 2. log_config.py
 3. unit_test.py
+- Mocking Dependencies
+  - unittest.mock
+  - cv2.VideoCapture
+  - StringsIO
+- Test Cases and Frame Generation Testing
 
 <br>
 
