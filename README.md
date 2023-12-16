@@ -34,3 +34,66 @@ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
+
+<br>
+
+### Example images
+
+#### _main.py
+![FrameJam Example Screen Main 1](/assets/img/framejam_1.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/framejam_2.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/framejam_3.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/framejam_4.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/framejam_5.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/framejam_6.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/framejam_7.png)
+
+<br>
+
+#### log_config.py
+![FrameJam Example Screen Main 1](/assets/img/log_config_1.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/log_config_2.png)
+
+<br>
+
+#### unit_test.py
+![FrameJam Example Screen Main 1](/assets/img/unittest_1.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/unittest_2.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/unittest_3.png)
+
+<br>
+
+![FrameJam Example Screen Main 1](/assets/img/unittest_4.png)
+
+
+
+
+
+
