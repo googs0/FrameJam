@@ -36,14 +36,16 @@ pip install -r requirements.txt
 ```
 
 <br>
+<br>
 
 ### Example images
 
 #### _main.py
+1
 ![FrameJam Example Screen Main 1](/assets/img/framejam_1.png)
 
 <br>
-
+2
 ![FrameJam Example Screen Main 1](/assets/img/framejam_2.png)
 
 <br>
@@ -67,6 +69,7 @@ pip install -r requirements.txt
 ![FrameJam Example Screen Main 1](/assets/img/framejam_7.png)
 
 <br>
+<br>
 
 #### log_config.py
 ![FrameJam Example Screen Main 1](/assets/img/log_config_1.png)
@@ -75,6 +78,7 @@ pip install -r requirements.txt
 
 ![FrameJam Example Screen Main 1](/assets/img/log_config_2.png)
 
+<br>
 <br>
 
 #### unit_test.py
