@@ -17,6 +17,7 @@
 1. _main.py
 2. log_config.py
 3. unit_test.py
+4. requirements.txt
 
 <br>
 
